@@ -1,22 +1,20 @@
---------------------------------------------------------------------------------
--- Company: 
--- Engineer:
 --
--- Create Date:   01:22:09 01/04/2011
--- Design Name:   
--- Module Name:   /media/LaCie/fpga/projects/wireworld/top_wireworld_testbench.vhd
--- Project Name:  wireworld
--- Target Device:  
--- Tool versions:  
--- Description:   
--- 
--- VHDL Test Bench Created by ISE for module: top_wireworld
--- 
--- Dependencies:
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Additional Comments:
+--    This file is part of top_wireworld
+--    Copyright (C) 2011  Julien Thevenon ( julien_thevenon at yahoo.fr )
+--
+--    This program is free software: you can redistribute it and/or modify
+--    it under the terms of the GNU General Public License as published by
+--    the Free Software Foundation, either version 3 of the License, or
+--    (at your option) any later version.
+--
+--    This program is distributed in the hope that it will be useful,
+--    but WITHOUT ANY WARRANTY; without even the implied warranty of
+--    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+--    GNU General Public License for more details.
+--
+--    You should have received a copy of the GNU General Public License
+--    along with this program.  If not, see <http://www.gnu.org/licenses/>
+--
 --
 -- Notes: 
 -- This testbench has been automatically generated using types std_logic and
